@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-redux-saga-movie-list/static/css/main.3521999f.chunk.css",
-    "main.js": "/react-redux-saga-movie-list/static/js/main.920b567a.chunk.js",
-    "main.js.map": "/react-redux-saga-movie-list/static/js/main.920b567a.chunk.js.map",
+    "main.js": "/react-redux-saga-movie-list/static/js/main.46922658.chunk.js",
+    "main.js.map": "/react-redux-saga-movie-list/static/js/main.46922658.chunk.js.map",
     "runtime-main.js": "/react-redux-saga-movie-list/static/js/runtime-main.a6fa2e7a.js",
     "runtime-main.js.map": "/react-redux-saga-movie-list/static/js/runtime-main.a6fa2e7a.js.map",
     "static/js/2.e17acdbb.chunk.js": "/react-redux-saga-movie-list/static/js/2.e17acdbb.chunk.js",
     "static/js/2.e17acdbb.chunk.js.map": "/react-redux-saga-movie-list/static/js/2.e17acdbb.chunk.js.map",
     "index.html": "/react-redux-saga-movie-list/index.html",
-    "precache-manifest.ffaf7c856ef6d07d1362d0552a6b61f0.js": "/react-redux-saga-movie-list/precache-manifest.ffaf7c856ef6d07d1362d0552a6b61f0.js",
+    "precache-manifest.f4c4dd984a5a30f93c7cd11fff4e8560.js": "/react-redux-saga-movie-list/precache-manifest.f4c4dd984a5a30f93c7cd11fff4e8560.js",
     "service-worker.js": "/react-redux-saga-movie-list/service-worker.js",
     "static/css/main.3521999f.chunk.css.map": "/react-redux-saga-movie-list/static/css/main.3521999f.chunk.css.map",
     "static/js/2.e17acdbb.chunk.js.LICENSE": "/react-redux-saga-movie-list/static/js/2.e17acdbb.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a6fa2e7a.js",
     "static/js/2.e17acdbb.chunk.js",
     "static/css/main.3521999f.chunk.css",
-    "static/js/main.920b567a.chunk.js"
+    "static/js/main.46922658.chunk.js"
   ]
 }

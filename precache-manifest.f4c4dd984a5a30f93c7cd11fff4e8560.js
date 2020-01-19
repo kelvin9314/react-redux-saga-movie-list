@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddf40008bb5975edd7ce1458067b8bf8",
+    "revision": "9f52eb6c71957e48093549d0e2a07a27",
     "url": "/react-redux-saga-movie-list/index.html"
   },
   {
-    "revision": "8382fbcc1f6270f62e3a",
+    "revision": "4e5fda9d01edbb3ff850",
     "url": "/react-redux-saga-movie-list/static/css/main.3521999f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-redux-saga-movie-list/static/js/2.e17acdbb.chunk.js.LICENSE"
   },
   {
-    "revision": "8382fbcc1f6270f62e3a",
-    "url": "/react-redux-saga-movie-list/static/js/main.920b567a.chunk.js"
+    "revision": "4e5fda9d01edbb3ff850",
+    "url": "/react-redux-saga-movie-list/static/js/main.46922658.chunk.js"
   },
   {
     "revision": "962d9a213865b9ad2f72",
