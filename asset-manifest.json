@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kelvin9314/react-redux-saga-movile-list/static/css/main.3521999f.chunk.css",
-    "main.js": "/kelvin9314/react-redux-saga-movile-list/static/js/main.83033f82.chunk.js",
-    "main.js.map": "/kelvin9314/react-redux-saga-movile-list/static/js/main.83033f82.chunk.js.map",
-    "runtime-main.js": "/kelvin9314/react-redux-saga-movile-list/static/js/runtime-main.7d304ee2.js",
-    "runtime-main.js.map": "/kelvin9314/react-redux-saga-movile-list/static/js/runtime-main.7d304ee2.js.map",
-    "static/js/2.b45f48f0.chunk.js": "/kelvin9314/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js",
-    "static/js/2.b45f48f0.chunk.js.map": "/kelvin9314/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js.map",
-    "index.html": "/kelvin9314/react-redux-saga-movile-list/index.html",
-    "precache-manifest.efda47c1ed54be6d1704de20b9d8454c.js": "/kelvin9314/react-redux-saga-movile-list/precache-manifest.efda47c1ed54be6d1704de20b9d8454c.js",
-    "service-worker.js": "/kelvin9314/react-redux-saga-movile-list/service-worker.js",
-    "static/css/main.3521999f.chunk.css.map": "/kelvin9314/react-redux-saga-movile-list/static/css/main.3521999f.chunk.css.map",
-    "static/js/2.b45f48f0.chunk.js.LICENSE": "/kelvin9314/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js.LICENSE"
+    "main.css": "/react-redux-saga-movile-list/static/css/main.3521999f.chunk.css",
+    "main.js": "/react-redux-saga-movile-list/static/js/main.83033f82.chunk.js",
+    "main.js.map": "/react-redux-saga-movile-list/static/js/main.83033f82.chunk.js.map",
+    "runtime-main.js": "/react-redux-saga-movile-list/static/js/runtime-main.ffaa43b4.js",
+    "runtime-main.js.map": "/react-redux-saga-movile-list/static/js/runtime-main.ffaa43b4.js.map",
+    "static/js/2.b45f48f0.chunk.js": "/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js",
+    "static/js/2.b45f48f0.chunk.js.map": "/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js.map",
+    "index.html": "/react-redux-saga-movile-list/index.html",
+    "precache-manifest.94d2d576e3273c45532c3ab65b14aa4d.js": "/react-redux-saga-movile-list/precache-manifest.94d2d576e3273c45532c3ab65b14aa4d.js",
+    "service-worker.js": "/react-redux-saga-movile-list/service-worker.js",
+    "static/css/main.3521999f.chunk.css.map": "/react-redux-saga-movile-list/static/css/main.3521999f.chunk.css.map",
+    "static/js/2.b45f48f0.chunk.js.LICENSE": "/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d304ee2.js",
+    "static/js/runtime-main.ffaa43b4.js",
     "static/js/2.b45f48f0.chunk.js",
     "static/css/main.3521999f.chunk.css",
     "static/js/main.83033f82.chunk.js"
