@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9f4ad5183ae0646be41035d07dae23d",
+    "revision": "b8dbdf707238dae3e7b801d4edaa4eb8",
     "url": "/kelvin9314/react-redux-saga-movile-list/index.html"
   },
   {
