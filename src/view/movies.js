@@ -27,12 +27,12 @@ const Movies = () => {
 
   useEffect(() => {
     dispatch(loadMovies());
-  }, []);
+  }, [dispatch]);
 
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  }, [handleScroll]);
 
   const handleLoadImages = () => {
     dispatch(loadMovies());
@@ -40,7 +40,7 @@ const Movies = () => {
 
   return (
     <div className="App">
-      <h1 style={{ textAlign: "center" }}> Hey Hey Yo Yo Movie list </h1>
+      <h1 style={{ textAlign: "center" }}> Movie list (themoviedb) </h1>
       <CardList movies={movies} />
       {stateError && <h2>{stateError}</h2>}
       {/* <button
