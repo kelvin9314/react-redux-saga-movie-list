@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3521999f.chunk.css",
-    "main.js": "/static/js/main.83033f82.chunk.js",
-    "main.js.map": "/static/js/main.83033f82.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.88f48c06.js",
-    "runtime-main.js.map": "/static/js/runtime-main.88f48c06.js.map",
-    "static/js/2.b45f48f0.chunk.js": "/static/js/2.b45f48f0.chunk.js",
-    "static/js/2.b45f48f0.chunk.js.map": "/static/js/2.b45f48f0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.10490257be9e287244fcf15aa63e2d12.js": "/precache-manifest.10490257be9e287244fcf15aa63e2d12.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3521999f.chunk.css.map": "/static/css/main.3521999f.chunk.css.map",
-    "static/js/2.b45f48f0.chunk.js.LICENSE": "/static/js/2.b45f48f0.chunk.js.LICENSE"
+    "main.css": "/react-redux-saga-movie-list/static/css/main.3521999f.chunk.css",
+    "main.js": "/react-redux-saga-movie-list/static/js/main.83033f82.chunk.js",
+    "main.js.map": "/react-redux-saga-movie-list/static/js/main.83033f82.chunk.js.map",
+    "runtime-main.js": "/react-redux-saga-movie-list/static/js/runtime-main.728e7938.js",
+    "runtime-main.js.map": "/react-redux-saga-movie-list/static/js/runtime-main.728e7938.js.map",
+    "static/js/2.b45f48f0.chunk.js": "/react-redux-saga-movie-list/static/js/2.b45f48f0.chunk.js",
+    "static/js/2.b45f48f0.chunk.js.map": "/react-redux-saga-movie-list/static/js/2.b45f48f0.chunk.js.map",
+    "index.html": "/react-redux-saga-movie-list/index.html",
+    "precache-manifest.078d5b6ba0211fa9c3487295a2ee72cb.js": "/react-redux-saga-movie-list/precache-manifest.078d5b6ba0211fa9c3487295a2ee72cb.js",
+    "service-worker.js": "/react-redux-saga-movie-list/service-worker.js",
+    "static/css/main.3521999f.chunk.css.map": "/react-redux-saga-movie-list/static/css/main.3521999f.chunk.css.map",
+    "static/js/2.b45f48f0.chunk.js.LICENSE": "/react-redux-saga-movie-list/static/js/2.b45f48f0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.88f48c06.js",
+    "static/js/runtime-main.728e7938.js",
     "static/js/2.b45f48f0.chunk.js",
     "static/css/main.3521999f.chunk.css",
     "static/js/main.83033f82.chunk.js"
