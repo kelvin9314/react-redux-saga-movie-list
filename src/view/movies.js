@@ -40,7 +40,7 @@ const Movies = () => {
 
   return (
     <div className="App">
-      <h1 style={{ textAlign: "center" }}> Movie list (themoviedb) </h1>
+      <h1 style={{ textAlign: "center" }}> Movie list (Data from themoviedb) </h1>
       <CardList movies={movies} />
       {stateError && <h2>{stateError}</h2>}
       {/* <button
