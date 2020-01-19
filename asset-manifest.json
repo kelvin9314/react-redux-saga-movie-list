@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kelvin9314/react-redux-saga-movile-list/static/css/main.3521999f.chunk.css",
+    "main.js": "/kelvin9314/react-redux-saga-movile-list/static/js/main.83033f82.chunk.js",
+    "main.js.map": "/kelvin9314/react-redux-saga-movile-list/static/js/main.83033f82.chunk.js.map",
+    "runtime-main.js": "/kelvin9314/react-redux-saga-movile-list/static/js/runtime-main.7d304ee2.js",
+    "runtime-main.js.map": "/kelvin9314/react-redux-saga-movile-list/static/js/runtime-main.7d304ee2.js.map",
+    "static/js/2.b45f48f0.chunk.js": "/kelvin9314/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js",
+    "static/js/2.b45f48f0.chunk.js.map": "/kelvin9314/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js.map",
+    "index.html": "/kelvin9314/react-redux-saga-movile-list/index.html",
+    "precache-manifest.f81728affbe5c3b81cbb8456ec1ca63c.js": "/kelvin9314/react-redux-saga-movile-list/precache-manifest.f81728affbe5c3b81cbb8456ec1ca63c.js",
+    "service-worker.js": "/kelvin9314/react-redux-saga-movile-list/service-worker.js",
+    "static/css/main.3521999f.chunk.css.map": "/kelvin9314/react-redux-saga-movile-list/static/css/main.3521999f.chunk.css.map",
+    "static/js/2.b45f48f0.chunk.js.LICENSE": "/kelvin9314/react-redux-saga-movile-list/static/js/2.b45f48f0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d304ee2.js",
+    "static/js/2.b45f48f0.chunk.js",
+    "static/css/main.3521999f.chunk.css",
+    "static/js/main.83033f82.chunk.js"
+  ]
+}
