@@ -6,6 +6,7 @@
   "keywords": [],
   "license": "MIT",
   "email": "kelvin9314@gmail.com",
+  "homepage" : "https://github.com/kelvin9314/react-redux-saga-movile-list",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
